@@ -2,7 +2,6 @@
 title: "Deploying and sharing open source data projects on Posit Connect Cloud"
 subtitle: "R en Buenos Aires · 17 de noviembre de 2026"
 author: "Isabella Velásquez y Alex Chisholm"
-footer: "Realizado con Quarto por [Ariana Bardauil](https://github.com/ariibard)"
 title-slide-attributes:
   data-background-image:  _extensions/positconfslides/assets/backgrounds/toc-people-light.svg
   data-background-size: contain
@@ -81,9 +80,9 @@ El **objetivo** es *promover el uso R, el aprendizaje continuo y favorecer la cr
 
 ## La charla de hoy {.content-light .smaller}
 
-![](imagenes/connect-cloud-logo.svg){width="25%" fig-align="center"}
+![](imagenes/connect-cloud-logo.svg){width="50%" fig-align="center"}
 
-Escribir código en R es el primer paso; después queremos **compartir nuestros proyectos**. Vamos a conocer **Posit Connect Cloud**, un entorno moderno en la nube para publicar y mostrar nuestro trabajo.
+Vamos a conocer **Posit Connect Cloud**, un entorno moderno en la nube para publicar y mostrar nuestro trabajo.
 
 ::: incremental
 -   🚀 Funcionalidades clave para compartir y deployar de forma simple
