@@ -1,0 +1,138 @@
+---
+title: "Deploying and sharing open source data projects on Posit Connect Cloud"
+subtitle: "R en Buenos Aires · 17 de noviembre de 2026"
+author: "Isabella Velásquez y Alex Chisholm"
+footer: "Realizado con Quarto por [Ariana Bardauil](https://github.com/ariibard)"
+title-slide-attributes:
+  data-background-image:  _extensions/positconfslides/assets/backgrounds/toc-people-light.svg
+  data-background-size: contain
+format:
+  positconfslides-revealjs:
+    chalkboard: true
+    slide-number: c/t
+    code-copy: true
+    center-title-slide: false
+    code-link: true
+    code-overflow: wrap
+    highlight-style: a11y
+    width: "1750"
+    height: "900"
+    filters:
+      - positconfslides
+    include-in-header:
+      text: |
+        <style>
+        .reveal #title-slide .title { font-size: 72px; max-width: 55%; }
+        .reveal #title-slide .subtitle { font-size: 40px; max-width: 57%; }
+        </style>
+---
+
+## **Código de conducta** {.30-70-light}
+
+<br>
+<br>
+<br>
+
+::: incremental
+-   🛡️ Todos los espacios de participación R en Buenos Aires, se rigen por el Código de Conducta, ya sean conferencia, charla, taller, reunión, redes sociales y otros medios en línea. Conoce el [Código de conducta de R en Buenos Aires](https://renbaires.github.io/cdc)
+
+
+-   🌈 Nuestro objetivo es que disfrutes este espacio. Si algo no está bien, contactate con el equipo coordinador o escribí un mail a renbaires@gmail.com
+:::
+
+## Comunidad R {.30-70-white}
+
+<br>
+
+### Nuestra misión
+
+<br>
+
+Este grupo surge con la misión de **conectar a quienes usan el lenguaje de programación R** en Buenos Aires, independientemente de su grado de conocimiento y el ámbito de aplicación del mismo.
+
+El **objetivo** es *promover el uso R, el aprendizaje continuo y favorecer la creación de proyectos interdisciplinarios*.
+
+## Organizan este encuentro {.content-light}
+
+<br>
+
+::: columns
+
+::: {.column width="33%"}
+![](https://avatars.githubusercontent.com/u/45582182?v=4){width="50%" style="border-radius: 80%;"}
+
+[**Andrea Gomez Vargas**](https://github.com/SoyAndrea)
+:::
+
+::: {.column width="33%"}
+![](imagenes/ari.jpg){width="50%" style="border-radius: 80%;"}
+
+[**Ariana Bardauil**](https://github.com/ariibard)
+:::
+
+::: {.column width="33%"}
+![](https://avatars.githubusercontent.com/u/64991969?v=4){width="50%" style="border-radius: 80%;"}
+
+[**Emanuel Ciardullo**](https://github.com/ECiardullo)
+
+:::
+:::
+
+
+## La charla de hoy {.content-light .smaller}
+
+![](imagenes/connect-cloud-logo.svg){width="25%" fig-align="center"}
+
+Escribir código en R es el primer paso; después queremos **compartir nuestros proyectos**. Vamos a conocer **Posit Connect Cloud**, un entorno moderno en la nube para publicar y mostrar nuestro trabajo.
+
+::: incremental
+-   🚀 Funcionalidades clave para compartir y deployar de forma simple
+-   🔄 Cómo migrar desde **shinyapps.io** o **Quarto Pub**
+-   💻 Demo en vivo: deploy de documentos Quarto y apps Shiny
+-   🙋 Preguntas y respuestas abiertas
+:::
+
+
+## Isabella Velásquez {.content-light .smaller}
+
+::::: columns
+::: {.column width="60%"}
+
+**Sr. Developer Advocate**
+
+Isabella Velásquez forma parte del equipo de Developer Relations de Posit PBC, donde trabaja en la intersección entre la programación, la comunicación y el análisis de datos para ayudar a las personas a sacar el máximo provecho de las herramientas modernas de ciencia de datos. Es una colaboradora activa de la comunidad R y una firme defensora del código abierto, enfocada en hacer que los flujos de trabajo con datos sean más accesibles y disfrutables para quienes los usan.
+
+:::
+
+::: {.column width="40%"}
+![](imagenes/isabella.jpg){width="65%" style="border-radius: 50%;"}
+:::
+:::::
+
+
+## Alex Chisholm {.content-light .smaller}
+
+::::: columns
+::: {.column width="60%"}
+
+**Sr. Product Manager**
+
+Alex Chisholm es un profesional de datos que programa con R y Python desde hace más de 15 años. En su rol actual de Product Manager en Posit PBC, Alex trabaja en soluciones de ciencia de datos en la nube, incluyendo Posit Cloud y Posit Connect Cloud. Antes de unirse a Posit en 2022, Alex vivió en Ámsterdam, Países Bajos, donde trabajó para una startup de viajes online y para una empresa de insights educativos. Actualmente vive en San Diego, California, con su esposa y sus dos hijas.
+
+:::
+
+::: {.column width="40%"}
+![](imagenes/alex.jpg){width="65%" style="border-radius: 50%;"}
+:::
+:::::
+
+
+
+##  {.toc-people-dark}
+
+<br>
+<br>
+
+::: largest
+Gracias!
+:::
